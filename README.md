@@ -12,7 +12,7 @@ Me interesa trabajar en equipos donde se valoren buenas prácticas, comunicació
 ---
 
 ## 🧩 Stack
-- **Front-end:** HTML, CSS, JavaScript, React, Redux
+- **Front-end:** HTML, CSS, JavaScript, React-Router-DOM
 - **Back-end:** Node.js, Express
 - **DB:** MongoDB
 - **Tools:** Git/GitHub, fundamentos de testing, TypeScript (en proyectos)
